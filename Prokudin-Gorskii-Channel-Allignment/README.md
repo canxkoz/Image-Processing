@@ -1,6 +1,6 @@
 # Computational Photograpy: Prokudin-Gorsky Channel Allignment
 
-This program can be used to allign Prokudin-Gorsky photos to RGB images. The results of my attempt can be checked in `samples` directory. The dataset can be downloaded form `dataset.zip` and further results can be seen on `align_testet.py`.
+This program can be used to allign Prokudin-Gorsky photos to RGB images. The results of my attempt can be checked in `samples` directory. The dataset can be downloaded form `dataset.zip` and further results can be seen on `align_tester.py`.
  
  ### Three Color Channel Images
  ![Train1](train(1).png)
